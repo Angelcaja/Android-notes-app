@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EvaluableUF1</string>
+    <string name="textoUp_pantalla2">Crear nota</string>
+    <string name="botonVolver_Agregar">Volver</string>
+    <string name="textoUp_Ajustes">Borrar Notas</string>
+    <string name="botonBorroarTodo_Ajustes">Borrar todas las notas</string>
+    <string name="fondo_verNota">Ver Nota</string>
+    <string name="texto1_VerNota">Informacion de la nota</string>
+    <string name="botonBorrar_VerNota">Borrar</string>
+</resources>
